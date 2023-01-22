@@ -33,7 +33,7 @@ Love Programing
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Nokiijoto)
 -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nokijoto&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
