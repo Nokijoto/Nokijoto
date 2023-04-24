@@ -3,8 +3,11 @@ Student In UITM in Poland,Rzeszów
 Love Programing
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/刀のズﾉﾌのｲの#8186) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafał-wątroba)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13321475) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Nokijoto1) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nokijoto&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 # 💻 Tech Stack:
 ## Intermediate :
@@ -32,10 +35,6 @@ Love Programing
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Nokiijoto)
 -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nokijoto&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokijoto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- ### ✍️ Random Dev Quote
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -46,5 +45,6 @@ Love Programing
  <!--  ## 💰 You can help me by Donating
 <!--  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rexman58y) 
 
-  
+  ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/刀のズﾉﾌのｲの#8186) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafał-wątroba)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13321475) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Nokijoto1) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
